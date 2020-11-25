@@ -2,7 +2,7 @@
 
 <img src="./footprint/footprint.png" width="30%">
 
-The difference from the data sheet is that the through-hole pad size is 0.65mm, but in this footprint, it is designed to be 0.64mm.
+The difference from the data sheet is that the through-hole pad size is 0.65mm, but in this footprint, it is designed to be 0.64mm.   
 데이터 시트와 차이점은 스루홀 패드 사이즈가 0.65mm 지만 해당 자료에는 0.64mm 로 설계 하였습니다.  
 
 ## Credits
